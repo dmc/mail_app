@@ -26,7 +26,7 @@ mail sample application.
 - ```docker-compose up``` to start smtp server at localhost
 - ```flutter clean``` to clean workspace of Xcode
 - ```flutter build ios``` to run Xcode build
-- Open ./ios from Xcode. and Press Play buttom
+- Open ./ios from Xcode. and Press Build button
 
 ## Note
 

@@ -31,7 +31,7 @@ class MailHomePage extends StatefulWidget {
 
 class _SmtpServerOption {
   int port = 25;
-  String host = '192.168.11.33';
+  String host = 'localhost';
   bool ignoreBadCertificate = true;
   bool ssl = false;
   bool allowInsecure = true;
